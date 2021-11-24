@@ -13,6 +13,8 @@ public class App {
         _nutzer[2] = new Nutzer("Bent", "Fenske", "2");
         _nutzer[3] = new Nutzer("Alkira", "Leitz", "2,1");
 
+        /* MEGA */ 
+        
         belag = new Belag[8];
         belag[0] = new Belag("Pepperoni", true);
         belag[0] = new Belag("Käse", true);
